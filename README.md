@@ -3,7 +3,7 @@
 HeartCare AI is a Streamlit-based web application that leverages a Machine Learning (K-Nearest Neighbors) pipeline to predict cardiovascular disease risk based on patient clinical measurements and profiles.
 
 ## 🚀 Live Demo
-🔗 **[Insert your deployment link here (e.g., Streamlit Community Cloud URL)]**
+🔗 **[https://heartcare-ai-pred.streamlit.app/]**
 
 ---
 
@@ -61,7 +61,7 @@ Follow these simple steps to run HeartCare AI on your machine:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Ayush-Jaiswal-code99/Predict_Heart_Disease.git
-cd heartcare-ai
+cd Predict_Heart_Disease
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
